@@ -6,6 +6,9 @@ O site é composto por várias páginas:
 - **E-commerce (store-hp)**: A página principal exibe todos os produtos do Harry Potter disponíveis para compra.
 - **Seleção de Casas**: Esta página utiliza uma IA de reconhecimento facial, Teachable Machine, integrada ao site através de JavaScript. Isso permite uma experiência interativa e personalizada para os usuários.
 
+## Site
+https://e-commerce-harry.netlify.app/store-hp/index.html
+
 ## Pré-requisitos
 Antes de começar, certifique-se de ter instalado:
 - Um navegador moderno (Chrome, Firefox, Safari, Edge)
