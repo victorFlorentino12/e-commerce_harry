@@ -32,3 +32,5 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 ## Imagem do projeto
 ![imag 1](https://github.com/victorFlorentino12/e-commerce_harry/assets/140027327/39ea0b8f-20af-44d3-9d71-8beef3282e6a)
 
+## Video do projeto
+https://github.com/victorFlorentino12/e-commerce_harry/assets/140027327/980b91f4-c21d-415d-8b3f-f10c3f509730
