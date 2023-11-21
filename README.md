@@ -28,3 +28,7 @@ Contribuições são sempre bem-vindas. Para contribuir, por favor:
 
 ## Licença
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+
+## Imagem do projeto
+![Captura da Web_21-11-2023_101541_127 0 0 1](https://github.com/victorFlorentino12/e-commerce_harry/assets/140027327/2b5e1a29-eacb-43eb-a262-0c226d01cf8f)
+
