@@ -30,5 +30,5 @@ Contribuições são sempre bem-vindas. Para contribuir, por favor:
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Imagem do projeto
-![Captura da Web_21-11-2023_101541_127 0 0 1](https://github.com/victorFlorentino12/e-commerce_harry/assets/140027327/2b5e1a29-eacb-43eb-a262-0c226d01cf8f)
+![imag 1](https://github.com/victorFlorentino12/e-commerce_harry/assets/140027327/39ea0b8f-20af-44d3-9d71-8beef3282e6a)
 
